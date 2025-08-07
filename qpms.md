@@ -1,5 +1,7 @@
 # QPMS : Quality Project Management System  
 
+<img width="1226" height="1153" alt="image" src="https://github.com/user-attachments/assets/e651c43c-d817-4bdb-8c02-6fe45a553fb2" />
+
 
 
 
@@ -144,4 +146,5 @@ The API implements role-based access control:
 - **Project Staff**: Can manage tasks, issues, and members
 - **Project Owner**: Full control over project
 - **Admin/Superuser**: Access to QMS documents and system-wide features
+
 
