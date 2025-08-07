@@ -10,6 +10,7 @@
 - Installation available for **on-premise deployment (internet connection optional)**
 - **Free plan** available for independent QA consultants and freelance quality professionals
 - **One-time purchase** license: £79.00 GBP (unlimited use, self-installation)
+- **AI ChatBot features** available with Ollama depend on the hardware capacity (successfully tested on 32GB RAM) 
 - Offline technical support and installation services available
 - **qualityportfolio9** at google mail
 
@@ -146,6 +147,7 @@ The API implements role-based access control:
 - **Project Staff**: Can manage tasks, issues, and members
 - **Project Owner**: Full control over project
 - **Admin/Superuser**: Access to QMS documents and system-wide features
+
 
 
 
