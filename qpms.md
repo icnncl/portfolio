@@ -6,7 +6,7 @@
 
 
     
-- https://qpms.pythonanywhere.com           qpmstest / testme01)
+- https://qpms.pythonanywhere.com           qpmstest / testme01
 - Installation available for **on-premise deployment (internet connection optional)**
 - **Free plan** available for independent QA consultants and freelance quality professionals
 - **One-time purchase** license: £79.00 GBP (unlimited use, self-installation)
@@ -146,5 +146,6 @@ The API implements role-based access control:
 - **Project Staff**: Can manage tasks, issues, and members
 - **Project Owner**: Full control over project
 - **Admin/Superuser**: Access to QMS documents and system-wide features
+
 
 
