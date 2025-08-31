@@ -1,14 +1,32 @@
 # QPMS : Quality Project Management System  
 
-<img width="1226" height="1153" alt="image" src="https://github.com/user-attachments/assets/e651c43c-d817-4bdb-8c02-6fe45a553fb2" />
+<img width="963" height="684" alt="image" src="https://github.com/user-attachments/assets/ade082d9-efb2-4e04-a6b2-d5c67ac5ff81" />
+
+<img width="1520" height="891" alt="proj mgmt" src="https://github.com/user-attachments/assets/6de1a657-0135-49c2-948f-3963443e2bf0" />
+
+<img width="1526" height="921" alt="task mgmt (2)" src="https://github.com/user-attachments/assets/8cd53ff8-ab59-49bb-81c3-3ac3f36badbb" />
+
+<img width="1527" height="887" alt="issue mgmt (2)" src="https://github.com/user-attachments/assets/1d9ab950-bcbd-47c6-a71b-0be8980ec735" />
 
 
+<img width="1619" height="953" alt="forum mgmt" src="https://github.com/user-attachments/assets/184924a3-7753-4276-a095-4c337ebffc11" />
+
+<img width="1278" height="1226" alt="doc repo" src="https://github.com/user-attachments/assets/93003662-9b60-4f13-bfcf-033481f58b2f" />
+
+<img width="1270" height="1201" alt="qms doc list" src="https://github.com/user-attachments/assets/6c49eb1b-01d6-49f8-acef-68697085d294" />
+<img width="1278" height="808" alt="proj docs" src="https://github.com/user-attachments/assets/4ba5fc44-cdbf-4c19-b769-9bbd0464368c" />
+
+<img width="1253" height="669" alt="timesheets" src="https://github.com/user-attachments/assets/c077756f-22c9-4664-9d0e-7267940fabe5" />
+
+<img width="1271" height="670" alt="timesheet entry" src="https://github.com/user-attachments/assets/731f64dc-958b-4e32-a305-e331e0489529" />
+
+<img width="1339" height="626" alt="chat" src="https://github.com/user-attachments/assets/2ef7fcc2-8c6d-448d-8eab-e1625fc204f1" />
+
+<img width="1478" height="1079" alt="image" src="https://github.com/user-attachments/assets/2ad2844c-0921-4f13-97af-2692da65ecef" />
 
 
-    
 - https://qpms.pythonanywhere.com          
 - Installation available for **on-premise deployment (internet connection optional)**
-- **Free plan** available for independent QA consultants and freelance quality professionals
 - **AI ChatBot features** available with Ollama depend on the hardware capacity (successfully tested on 32GB RAM) 
 - Offline technical support and installation services available
 - **qualityportfolio9** at google mail
