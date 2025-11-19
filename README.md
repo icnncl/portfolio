@@ -1,6 +1,6 @@
 Hi, I'm YS.
 
-Software Quality Engineer | AI, Finance, Defense | Continuous Learning, Continuous Improving 
+Software Quality Engineer | AI, Finance, Defence | Continuous Learning, Continuous Improving 
 
 &nbsp;&nbsp;
 
