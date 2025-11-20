@@ -214,3 +214,6 @@
 **Source**: MyBase/qpms_v0.9/ (Complete project codebase analysis)
 **Development Evidence**: Git history, migration files, test suites, and comprehensive codebase review
 
+
+
+[⬅ Back to README](https://github.com/icnncl/portfolio)
