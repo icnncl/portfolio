@@ -1,74 +1,43 @@
-Hi, I'm YS.
+# Hi, I'm YS.
 
-Please check my [portfolio page](https://icnncl.github.io/).
+## Portfolio
 
-&nbsp;&nbsp;
+I build practical web and desktop applications that combine workflow automation, quality management, and AI-assisted development.
 
-### 📌 Projects
----
+My recent work focuses on Django/DRF backends, PostgreSQL, React/TypeScript frontends, and productivity tools that turn data or ideas into usable workflows.
 
-## **QPMS – Project Management System**  
-**Tech:** Django, Python, SQLite3, PyTest, Selenium  
-**Link:** [Live Demo](https://qpms.pythonanywhere.com) | [Full Details](https://github.com/icnncl/portfolio/blob/main/qpms.md)
+## Featured Project: iQubic
 
-### **Problem**  
-Teams needed a simple internal system for project and task tracking without relying on expensive SaaS tools or working in environments with no internet access.
+**iQubic** is a desktop productivity app that combines mind mapping, action tracking, and calendar scheduling. It helps users turn scattered ideas into concrete tasks and plan them visually.
 
-### **Scope**  
-Developed full-stack features (project creation, issues, roles, dashboards).  
-Designed and executed end-to-end test scenarios including:  
-- CRUD validation  
-- User-role workflow tests  
-- Form validation  
-- Error handling  
-- Regression suites using PyTest and Selenium  
+**Tech Stack:** React, TypeScript, Tauri, Markdown, SQLite, React Flow, FullCalendar
+**Platform:** Desktop app for Windows
+**Role:** Full-stack development, product design, testing, and AI-assisted refactoring
 
-### **Outcome**  
-Delivered a stable MVP with structured QA coverage, uncovering UI/logic defects early.  
-Improved workflow clarity and demonstrated hands-on capability in:  
-- designing test cases  
-- executing manual tests  
-- preparing automation-ready test structures  
-- documenting defects
+[View Project](https://github.com/icnncl/iqubic-downloads/blob/main/README.md) · [Download for Windows](https://github.com/icnncl/iqubic-downloads/releases/download/v0.1.0/iqubic_0.1.0_x64-setup.exe)
 
----
+<img width="1805" height="1200" alt="iQubic mind map view" src="https://github.com/user-attachments/assets/24a53544-0c7c-4cbd-86b5-039bd8cb7b7b" />
 
-## **Chantak – Nutrition Ingredient Information System**  
-**Tech:** Django, Python, PostgreSQL, Bootstrap  
-**Link:** [Live Demo](https://chantak.onrender.com) | [Full Details](https://github.com/icnncl/portfolio/blob/main/chantak.md)
+<img width="1797" height="1199" alt="iQubic calendar and action tracking view" src="https://github.com/user-attachments/assets/d4527f8a-9c44-44b0-a040-47d0037626cc" />
 
-### **Problem**  
-Users lacked a unified way to search nutrition ingredients consistently.
+## Projects
 
-### **Scope**  
-Built search functionality, filtering options, admin management, and validated data accuracy through manual UI testing.
+| Project                                                                  | Technology                                                 | Highlights                                                                  | Platform    | AI-Assisted Development                                           |
+| ------------------------------------------------------------------------ | ---------------------------------------------------------- | --------------------------------------------------------------------------- | ----------- | ----------------------------------------------------------------- |
+| [QPMS](qpms.md)                                                          | Django, PyTest, Selenium                                   | Project management system with QMS and test management.                     | Web app     | **Cursor**: Development and testing, **Claude Code**: Refactoring |
+| [Chantak](chantak.md)                                                    | Django REST Framework, PostgreSQL                          | Nutrition ingredient search and validation platform.                        | Web app     | **Cursor**: Development and testing, **Claude Code**: Refactoring |
+| [Shineklass](shineklass.md)                                              | Django REST Framework, PostgreSQL                          | Online co-working and learning community platform.                          | Web app     | **Claude Code**: Development and testing                          |
+| [img2csv](img2csv.md)                                                    | Django REST Framework, PostgreSQL                          | AI-assisted eBay listing and inventory management platform.                 | Web app     | **Claude Code**: Development and testing                          |
+| [iQubic](https://github.com/icnncl/iqubic-downloads/blob/main/README.md) | React, TypeScript, Tauri, SQLite, React Flow, FullCalendar | Visual mind-mapping app that turns ideas into tasks and calendar schedules. | Desktop app | **Claude Code**: Development and testing, **Codex**: Refactoring  |
 
-### **Outcome**  
-Delivered a reliable ingredient lookup tool and strengthened structured testing, including bug reporting and regression testing.
+## Technical Focus
 
----
+* Full-stack web applications
+* QA automation and test management
+* AI-assisted development workflows
+* Data extraction and workflow automation
+* Desktop productivity applications
 
-## **Shineklass – Online Co-working Learning Platform**  
-**Tech:** Community solution + Django, PostgreSQL  
+## Contact
 
-### **Problem**  
-Many self-learners lose motivation and consistency when studying alone, lacking peer support, accountability, and a structured space to work toward their career goals.
-
-### **Scope**  
-Built and tested early-stage features enabling learners to:  
-- join peer groups  
-- participate in online co-working sessions    
-
-Also developing features to give learners better information about their subject areas.
-
-### **Outcome**  
-Tested community features and event sessions, validated forms and workflows, and began implementing functions designed to provide learners with more information about their learning subjects.  
-Strengthened skills in structured bug reporting and regression testing during development.
-
----
-
-
-
-
-&nbsp;&nbsp;
-* [email me](mailto:qualityportfolio9@gmail.com)
+* [Email Me](mailto:qualityportfolio9@gmail.com)
